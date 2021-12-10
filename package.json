@@ -1,0 +1,24 @@
+{
+  "name": "projeto-certificacao",
+  "version": "0.0.1",
+  "description": "Projeto para Certificação Final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Douglasmf82/Projeto-Teste.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Douglas Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Douglasmf82/Projeto-Teste/issues"
+  },
+  "homepage": "https://github.com/Douglasmf82/Projeto-Teste#readme"
+}
